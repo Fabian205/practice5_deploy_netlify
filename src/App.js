@@ -116,3 +116,6 @@ const App = (props) => {
 };
 
 export default App;
+
+//Deploy in production netlify
+//https://6551fedc676e2a43e5d87ca5--shiny-valkyrie-52a0d7.netlify.app/
